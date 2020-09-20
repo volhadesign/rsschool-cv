@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* Layout Medium Screens */
+
+header{
+	height:600px;
+	background:url(../images/banner_medium.jpg) no-repeat;
+}
+header a.logo{
+	width:160px;
+	height:174px;
+	top:80px;
+	background:url(../images/logo_medium.png);
+}
