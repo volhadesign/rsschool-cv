@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+/* Layout Small Screens */
+
+header{
+	height:450px;
+	background:url(../images/banner_small.jpg) no-repeat;
+	}
+	header a.logo{
+		width:103px;
+		height:111px;
+		top:80px;
+		background-image:url(../images/logo_small.png);
+	}
+	article {
+		padding:2em;
+	}
+	
